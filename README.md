@@ -1,4 +1,4 @@
-## Referenced from [florinpop17's app-ideas](https://github.com/florinpop17/app-ideas)
+## Challenge from [florinpop17's app-ideas](https://github.com/florinpop17/app-ideas)
 
 **Tier:** 1-Beginner
 
