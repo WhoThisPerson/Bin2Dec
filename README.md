@@ -32,3 +32,6 @@ constraints:
 ## Useful links and resources
 
 [Binary number system](https://en.wikipedia.org/wiki/Binary_number)
+
+## Preview:
+![Bin2Dec Image](screenshots/main-ui.png)
